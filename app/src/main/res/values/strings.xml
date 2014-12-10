@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DrinkingBuddy</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="war_game">Game Of War</string>
+    <string name="black_jack">Black Jack</string>
+    <string name="more_game">Flere spill</string>
+    <string name="title_activity_game_of_war">GameOfWar</string>
+    <string name="drinking_songs">Drikkesanger</string>
+    <string name="quiz">Quiz</string>
+    <string name="president">Mr. President</string>
+    <string name="bus_trip">Bussturen</string>
+    <string name="db_logo">logo</string>
+    <string name="footer">footer</string>
+    <string name="settings">instillinger</string>
+    <string name="question">Infomasjon</string>
+    <string name="method">buttonFunction</string>
+    <string name="gow_logo">gow_logo</string>
+    <string name="player_one">Spiller 1</string>
+    <string name="player_two">Spiller 2</string>
+    <string name="edit_text">Brukernavn</string>
+    <string name="start">Start spillet</string>
+    <string name="rules">Regler</string>
+    <string name="title_activity_reglerfor_gameof_war">Regler for Game of War</string>
+    <string name="title_activity_more_drinking_games">Flere Drikkespill</string>
+    <string name="title_activity_result">Resultater:</string>
+    <string name="str_next">Neste spørsmål</string>
+    <string name="menu_settings">Settings</string>
+
+</resources>

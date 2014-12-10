@@ -1,0 +1,91 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".MainActivity"
+    android:background="#ff996633">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/war_game"
+        android:id="@+id/button1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="129dp"
+        android:background="#ffefb178"
+        android:onClick="onClick" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/more_game"
+        android:id="@+id/button2"
+        android:background="#ffefb178"
+        android:layout_centerVertical="true"
+        android:layout_alignEnd="@+id/button1"
+        android:clickable="true"
+        android:onClick="onClick"/>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:src="@drawable/db_logo"
+        android:layout_alignParentStart="true"
+        android:contentDescription="@string/db_logo" />
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView2"
+        android:contentDescription="@string/footer"
+        android:src="@drawable/dbhfooter"
+        android:cropToPadding="false"
+        android:baselineAlignBottom="true"
+        android:layout_below="@+id/button2"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="54dp" />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageButton"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/button2"
+        android:src="@android:drawable/ic_menu_preferences"
+        android:layout_alignParentEnd="false"
+        android:layout_alignParentStart="true"
+        android:background="#ff996633"
+        android:layout_centerVertical="true"
+        android:adjustViewBounds="false"
+        android:baselineAlignBottom="true"
+        android:layout_gravity="left"
+        android:contentDescription="@string/settings" />
+
+    <ImageButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageButton2"
+        android:baselineAlignBottom="false"
+        android:layout_gravity="right"
+        android:src="@android:drawable/ic_menu_help"
+        android:contentDescription="@string/quiz"
+        android:background="#ff996633"
+        android:layout_alignBottom="@+id/imageView2"
+        android:layout_alignEnd="@+id/imageView2" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/quiz"
+        android:id="@+id/button3"
+        android:layout_below="@+id/button1"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentEnd="false"
+        android:background="#ffefb178"
+        android:onClick="onClick" />
+
+</RelativeLayout>

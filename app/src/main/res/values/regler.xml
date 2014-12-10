@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="rules_gow1">
+        Dette spillet er basert på kortspillet: "Krig".
+    </string>
+    <string name="rules_gow2">
+        <b>Meningen med spillet:</b>
+        Meningen er å erobre alle motstanderens kort.
+        Vinneren er den som sitter igjen med hele kortstokken til slutt.
+    </string>
+    <string name="rules_gow3">
+        <b>Slik spiller man:</b>
+        Begge spillerne snur det øverste kortet i sin bunke samtidig.
+        Den som hadde høyest kort vinner begge kortene, og legger dem
+        nederst i sin bunke. Så snur begge neste kort, og slik fortsetter det
+        helt til en har vunnet. Ess er høyest og 2 er lavest.
+        Alle fargene er like mye verd.
+    </string>
+    <string name="rules_gow4">
+        <b>Krig:</b> Hvis kortene har samme verdi, blir det krig.
+        Begge trekker da tre nye kort fra sin bunke, og legger dem med forsiden ned.
+        Så trekker de et kort til, og legger det med forsiden opp.
+        Den som har det høyeste av disse to kortene vil da vinne alle ti kortene.
+        Om det fortsatt er likt, blir det en ny krig.
+    </string>
+
+
+
+
+
+
+
+
+
+</resources>
