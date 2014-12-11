@@ -7,6 +7,8 @@ import android.view.MenuItem;
 
 /**
  * Fragment Layout java fil til en listevisning
+ * layouten blir hentet layoutmappas activity_more_drinking_games
+ * innholdet blir hentet av MoreGames.java
  */
 
 public class MoreDrinkingGames extends Activity {
