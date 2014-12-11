@@ -88,4 +88,14 @@
         android:background="#ffefb178"
         android:onClick="onClick" />
 
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/title_activity_drink_oppskrifter"
+        android:id="@+id/button4"
+        android:layout_below="@+id/button2"
+        android:layout_centerHorizontal="true"
+        android:onClick="onClick"
+        android:background="#ffefb178" />
+
 </RelativeLayout>
