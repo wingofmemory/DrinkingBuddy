@@ -54,9 +54,8 @@ public class MainActivity extends Activity implements View.OnClickListener
 
     public void button1Click() {
 
-        startActivity(new Intent("com.example.julianna.drinkingbuddy.GameOfWar"));
+        startActivity(new Intent("com.example.julianna.drinkingbuddy.GameOfWar"));}
 
- }
     public void button2Click() {
 
         startActivity(new Intent("com.example.julianna.drinkingbuddy.MoreDrinkingGames"));}
@@ -64,6 +63,10 @@ public class MainActivity extends Activity implements View.OnClickListener
     public void button3Click() {
 
         startActivity(new Intent("com.example.julianna.drinkingbuddy.QuizActivity"));}
+
+    public void button4Click() {
+
+        startActivity(new Intent("com.example.julianna.drinkingbuddy.DrinkOppskrifter"));}
 
 
 
@@ -80,6 +83,9 @@ public class MainActivity extends Activity implements View.OnClickListener
                 break;
             case R.id.button3:
                 button3Click();
+                break;
+            case R.id.button4:
+                button4Click();
                 break;
 
         }
