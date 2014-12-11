@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="mojito_opp">
+    <b>Du trenger:</b>
+        <ul>
+        <li>- 4 CL HVIT ROM</li>
+        <li>- 2 CL LIMEJUICE</li>
+        <li>- 3 KVAST(ER) FRISK MYNTE</li>
+        <li>- 2 TS SUKKER</li>
+        <li>- SODA</li></ul>
+        <b>Slik gjør du:</b>
+         1. Mos mynten sammen med sukker og limejuice nederst i et longdrinkglass.
+         2. Bruk friskpresset limejuice.
+         3. Fyll opp med is.
+         4. Tilsett rom, og topp med sodavann.
+         5. Pynt med en myntekvast, og server med sugerør.
+    </string>
+
+    <string name="gintonic_opp">
+       <b>Du trenger:</b>
+        <ul>
+        <li> - 4 CL GIN</li>
+        <li> - 0.25 LIME</li>
+        <li> - TONIC</li></ul>
+        <b>Slik gjør du:</b>
+         1. Fyll et longdrinkglass med isbiter. 
+         2. Dra limebåten rundt kanten sånn at den fuktes, før du legger limen oppi med isbitene. 
+         3. Hell på gin, og topp med tonic. 
+         4. Rør forsiktig.
+         5. Pynt med en limebåt.
+    </string>
+    
+    <string name="cosmo_opp">
+        <b>Du trenger:</b>
+        <ul>
+         <li>- 3 CL VODKA</li>
+         <li>- 1 CL COINTREAU/TRIPLE SEC</li>
+         <li>- 0.5 LIME</li>
+         <li>- 2 CL TRANEBÆRJUICE</li></ul>
+        <b>Slik gjør du:</b>
+         1.Rist vodka, triple sec, tranebærjuice og saften fra limen med is i en coctailshaker. 
+         2.Har du ikke det tilgjengelig, kan du røre dem kraftig sammen med en lang skje i et høyt glass. 
+         3.Hold en serviett over så du ikke søler.
+         4.Fjern isbitene fra glasset, og sil drinken over.
+    </string>
+    
+    <string name="long_island_opp">
+        <b>Du trenger:</b>
+        <ul>
+         <li>- 1 cl tequila</li>
+         <li>- 1 cl vodka</li>
+         <li>- 1 cl rom, hvit</li>
+         <li>- 1 cl gin</li>
+         <li>- 1 cl cointreau eller triple sec</li>
+         <li>- 1.5 cl fersklime</li>
+         <li>- 1.5 cl sukkerlake</li>
+         <li>- cola</li></ul>
+         <b>Slik gjør du:</b>
+         1. Ha isbiter i et longdrinkglass.
+         2. Hell i spriten, lime og sukkerlake
+         3. Rør med en barskje.
+         4. Til slutt heller du cola forsiktig til det er fullt.
+         5. Bruk fantasien når du skal pynte.
+    </string>
+
+    <string name="white_russian_opp">
+        <b>Du trenger:</b>
+        <ul>
+         <li>- 4 cl vodka</li>
+         <li>- 2 cl kahlua</li></ul>
+        <b>Slik gjør du:</b>
+         1. Ha isbiter i glasset, deretter ingrediensene.
+         2. Rør med en barskje for å blande. Hell litt fløte over baksiden av en barskje.
+         3. Pynt med en appelsinskive og et marachinobær på spyd.
+    </string>
+
+</resources>
