@@ -6,7 +6,7 @@
         android:allowBackup="true"
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
-        android:theme="@style/AppTheme">
+        android:theme="@style/AppTheme" >
         <activity
             android:name="com.example.julianna.drinkingbuddy.MainActivity"
             android:label="@string/app_name" >
@@ -39,12 +39,12 @@
             android:label="@string/title_activity_more_drinking_games" >
         </activity>
         <activity
-            android:name=".DetailsActivity"
-            android:label="@string/app_name">
+            android:name="com.example.julianna.drinkingbuddy.DetailsActivity"
+            android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.VIEW" />
             </intent-filter>
-            </activity>
+        </activity>
         <activity
             android:name="com.example.julianna.drinkingbuddy.ResultActivity"
             android:label="@string/title_activity_result" >
@@ -52,11 +52,17 @@
         <activity
             android:name="com.example.julianna.drinkingbuddy.QuizActivity"
             android:label="Quiz" />
+
         <intent-filter>
             <action android:name="com.example.julianna.drinkingbuddy.QuizActivity" />
 
             <category android:name="android.intent.category.DEFAULT" />
         </intent-filter>
+
+        <activity
+            android:name="com.example.julianna.drinkingbuddy.DrinkOppskrifter"
+            android:label="@string/title_activity_drink_oppskrifter" >
+        </activity>
     </application>
 
 </manifest>
