@@ -12,7 +12,7 @@ import android.widget.Button;
 public class MainActivity extends Activity implements View.OnClickListener
 {
 
-    Button button1, button2, button3;
+    Button button1, button2, button3, button4;
 
 
     @Override
@@ -25,6 +25,8 @@ public class MainActivity extends Activity implements View.OnClickListener
         button2.setOnClickListener(this);
         button3 = (Button) findViewById(R.id.button3);
         button3.setOnClickListener(this);
+        button4 = (Button) findViewById(R.id.button4);
+        button4.setOnClickListener(this);
 
 
     }
