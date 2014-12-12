@@ -28,5 +28,11 @@
     <string name="title_activity_result">Resultater:</string>
     <string name="str_next">Neste spørsmål</string>
     <string name="menu_settings">Settings</string>
+    <string name="title_activity_drink_oppskrifter">DrinkOppskrifter</string>
+    <string name="mojito">Mojito</string>
+    <string name="cosmopolitan">Cosmopolitan</string>
+    <string name="gintonic">Gin Tonic</string>
+    <string name="longisland">Long Island Ice Tea</string>
+    <string name="white_russian">White Russian</string>
 
 </resources>
